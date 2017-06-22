@@ -1,4 +1,4 @@
-# tinylog
+# TinyLog
 AHK script that logs via command line parameter.
 
 To run compilte to .exe then run <filename>.exe "text to log here"
